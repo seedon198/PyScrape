@@ -16,5 +16,9 @@ currently the source is adafruit.com modify the code to work with other sites
 ```sh
 $ python3 pyscrape.py
 ```
+
+#### Usage 
+[![asciicast](https://asciinema.org/a/v0tspjZLdJiNFmiJTh2sdPSz4.svg)](https://asciinema.org/a/v0tspjZLdJiNFmiJTh2sdPSz4)
+
 #### Licence
 Feel free to use this code :)
